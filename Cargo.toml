@@ -1,0 +1,14 @@
+[package]
+name = "worldbuilder-rs"
+version = "0.1.0"
+authors = ["Felipe Santos <fesoliveira@outlook.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+"voronator" = "0.1.0"
+"rgb" = "0.8.20"
+"hex" = "0.4.2"
+"skia-safe" = "0.30.1"
+"rand" = "0.7.3"
